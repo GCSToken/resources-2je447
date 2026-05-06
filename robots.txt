@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://GCSToken.github.io/resources-2je447/sitemap.xml
